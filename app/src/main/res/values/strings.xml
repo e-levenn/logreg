@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Loginreg</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calc">CalcActivity</string>
+    <string name="title_activity_calcactivity">calcactivity</string>
+    <string name="title_activity_calc2">CalcActivity2</string>
+    <string name="title_activity_simplelist">simplelist</string>
+    <string name="title_activity_custom">CustomActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
